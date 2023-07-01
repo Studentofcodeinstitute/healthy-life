@@ -14,7 +14,6 @@ First page contain;
 
 3. Navigation bar.
 
-
 ![alt text](assets/images/first-page.png)
 
 ## Representation of second page
@@ -64,15 +63,10 @@ Second page contain;
 3. Accessibility
 
 ![alt text](assets/images/accessibility1.png)
-   
-
-# Unfixed Bugs
-
-I would like to give better position to all images. With images i could not do as I had expected, Because in the end of the project i realised; all images nested html file wasn't showing. I have to replace them inside stylesheet. It wasn't possible to contact tutor cause of short time. Accept my apologies.
 
 # deployment
 
-The live link can be found here - 
+The live link can be found here - https://studentofcodeinstitute.github.io/healthy-life/
 
 # content
 

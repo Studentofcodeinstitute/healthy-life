@@ -126,25 +126,30 @@ main {
 
 
 #image1 {
-    background: url('../images/steve-jobs-image-original.jpg') no-repeat;
+    /*  background: url('../images/steve-jobs-image-original.jpg') no-repeat;*/
     background-position: center;
-    background-size: 60%;
+    background-size: 100%;
     height: 100%;
     background-color: rgb(144, 47, 213);
 }
 
+img {
+    height: 200px;
+    width: 400px;
+}
+
 #image2 {
-    background: url('../images/brian-tracy-image.jpg') no-repeat;
+    /* background: url('../images/brian-tracy-image.jpg') no-repeat;*/
     background-position: center;
-    background-size: 60%;
+    background-size: 100%;
     height: 100%;
     background-color: rgb(144, 47, 213);
 }
 
 #image3 {
-    background: url('../images/Jim-Rohn-image.jpg') no-repeat;
+    /* background: url('../images/Jim-Rohn-image.jpg') no-repeat;*/
     background-position: center;
-    background-size: 60%;
+    background-size: 100%;
     height: 100%;
     background-color: rgb(144, 47, 213);
 }
@@ -338,33 +343,6 @@ hr {
     justify-content: center;
     text-align: center;
     font-size: 100%;
-}
-
-#football-image {
-    background: url('../images/Football-content.png') no-repeat;
-    background-position: center;
-    background-size: 100%;
-    height: 100%;
-    width: 100%;
-    height: 50%;
-}
-
-#swimming-image {
-    background: url('../images/swimming-image.jpg') no-repeat;
-    background-position: center;
-    background-size: 100%;
-    height: 100%;
-    width: 100%;
-    height: 50%;
-}
-
-#skiing-image {
-    background: url('../images/ski-content.jpg') no-repeat;
-    background-position: center;
-    background-size: 100%;
-    height: 100%;
-    width: 100%;
-    height: 50%;
 }
 
 
@@ -734,6 +712,10 @@ hr {
         display: none;
     }
 
+    img {
+        height: 100%;
+        width: 100%;
+    }
 
 
 }

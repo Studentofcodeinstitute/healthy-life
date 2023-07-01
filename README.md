@@ -63,6 +63,7 @@ Second page contain;
 
 3. Accessibility
 
+![alt text](assets/images/accessibility1.png)
    
 
 # Unfixed Bugs

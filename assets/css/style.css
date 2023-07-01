@@ -126,7 +126,6 @@ main {
 
 
 #image1 {
-    /*  background: url('../images/steve-jobs-image-original.jpg') no-repeat;*/
     background-position: center;
     background-size: 100%;
     height: 100%;
@@ -140,7 +139,6 @@ img {
 }
 
 #image2 {
-    /* background: url('../images/brian-tracy-image.jpg') no-repeat;*/
     background-position: center;
     background-size: 100%;
     height: 100%;
@@ -148,7 +146,6 @@ img {
 }
 
 #image3 {
-    /* background: url('../images/Jim-Rohn-image.jpg') no-repeat;*/
     background-position: center;
     background-size: 100%;
     height: 100%;
